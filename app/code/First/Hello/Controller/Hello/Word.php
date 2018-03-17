@@ -19,6 +19,8 @@ class Word extends \Magento\Framework\App\Action\Action{
     public function execute()
     {
         echo 'Hello Word';
+        echo 'Hello Word';
+        echo 'Hello Word';
         exit;
     }
 }
